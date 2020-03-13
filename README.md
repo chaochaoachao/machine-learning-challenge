@@ -9,15 +9,22 @@ Over a period of nine years in deep space, the NASA Kepler space telescope has b
 Tune the models
 Compare 3 models including base model: 
 
-**_support vector machine-linear for the baseline model_,**
-![model1](/Images/model1.PNG)
 
-**_support vector machine-rbf_,**
+
+
+**_1. support vector machine-linear for the baseline model_,**
+![model1](/Images/model1.PNG))
+
+
+
+**_2. support vector machine-rbf_,**
 ![model2](/Images/model2.PNG)
 
 as well as 
 
-**_lightgbm multiclass classification)_**
+
+
+**_3. lightgbm multiclass classification)_**
 ![model3](/Images/model3.PNG)
 
 **_feature importance from Lightgbm_**
